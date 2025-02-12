@@ -1,0 +1,11 @@
+:root {
+  --bg-color: white;
+  --text-color: black;
+  --primary-color: yellow;
+}
+
+[data-theme='dark'] {
+  --bg-color: black;
+  --text-color: white;
+  --primary-color: red;
+}
